@@ -187,6 +187,23 @@ footer{
     cursor: pointer;
     background-color: var(--another-background-color);
 }
+.btn:active{
+    background-color: var(--another-color);
+    border-radius: 4px;
+    box-shadow: 0px 3px 1px rgba(0, 0, 0, 0.1), 0px 1px 2px rgba(0, 0, 0, 0.8), 0px 2px 2px rgba(0, 0, 0, 0.12);
+}
 .container_list_item{
-    
+    list-style: none;
+    border: 1px solid #EEEEEE;
+}
+.item_title{
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 2;
+    color: var(--main-text-color);
+}
+.item_text{
+    color: var(--other-text-color);
+    font-size: 16px;
+    line-height: 1.8;
 }
