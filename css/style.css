@@ -91,7 +91,6 @@ span{
 .item-title{
     font-size: 14px;
     font-weight:700;
-    color: var(--main-text-color);
 }
 .item-text{
     width: 270px;
@@ -103,7 +102,6 @@ span{
 .holder-caption{
     font-size: 36px;
     font-weight:700;
-    color: var(--main-text-color);
     line-height:1.1;
 }
 .holder-item{
@@ -116,7 +114,6 @@ span{
 .box-headline{
     font-size: 36px;
     font-weight: 700;
-    color: var(--main-text-color);
     line-height: 1.1;
 }
 .box-item{
@@ -185,7 +182,6 @@ footer{
     font-size: 18px;
     font-weight: 700;
     line-height: 2;
-    color: var(--main-text-color);
 }
 .item-text{
     color: var(--other-text-color);
