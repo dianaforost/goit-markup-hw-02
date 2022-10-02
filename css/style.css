@@ -9,6 +9,7 @@
     --footer-text-color: rgba(255,255,255,0.6);
     --font-family-ral:'Raleway', sans-serif; 
     --font-family-rob:'Roboto', sans-serif;
+    --border-color: #EEEEEE;
 }
 body{
 
@@ -208,11 +209,10 @@ footer{
 }
 .portfolio-item{
     list-style: none;
-    border: 1px solid #EEEEEE;
+    border: 1px solid var(--border-color);
 }
 .portfolio-title{
     font-size: 18px;
-    font-weight: 700;
     line-height: 2;
 }
 .portfolio-text{
