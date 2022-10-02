@@ -104,7 +104,6 @@ span{
 }
 .item-title{
     font-size: 14px;
-    font-weight:700;
     line-height: 0.91;
 }
 .item-text{
@@ -116,7 +115,6 @@ span{
 /* THIRD SECTION */
 .holder-caption{
     font-size: 36px;
-    font-weight:700;
     line-height:1.1719;
 }
 .holder-item{
@@ -128,7 +126,6 @@ span{
 }
 .box-headline{
     font-size: 36px;
-    font-weight: 700;
     line-height: 1.1719;
 }
 .box-item{
